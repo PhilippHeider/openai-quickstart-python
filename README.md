@@ -17,8 +17,8 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 4. Create a new virtual environment:
 
    ```bash
-   $ python -m venv venv
-   $ . venv/bin/activate
+   $ python -m venv env
+   $ . env/Scripts/activate
    ```
 
 5. Install the requirements:
